@@ -74,7 +74,7 @@ export const tabs = [
             {
                 icon: 'sports_football',
                 label: 'Go to Sleeper',
-                dest: `https://sleeper.app/leagues/${1184200570684194816}`,
+                dest: `https://sleeper.app/leagues/1184200570684194816`,
             },
         ]
     },
